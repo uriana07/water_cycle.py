@@ -1,0 +1,13 @@
+print("The Water Cycle")
+
+print("Water on Earth is constantly moving in a cycle.")
+print("This cycle is called the water cycle.")
+print("Here's how it works:")
+print("1. The sun heats up water in the ocean, rivers, and lakes.")
+print("2. The heat from the sun makes the water evaporate, or turn into vapor.")
+print("3. The water vapor rises up into the air and forms clouds.")
+print("4. When the clouds get heavy, the water falls back down to the ground as precipitation.")
+print("5. Precipitation can be rain, snow, sleet, or hail.")
+print("6. Some of the precipitation soaks into the ground and becomes groundwater.")
+print("7. Some of the precipitation flows into rivers and eventually back into the ocean.")
+print("The cycle then starts all over again!")
